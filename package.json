@@ -1,0 +1,19 @@
+{
+  "name": "cadastro-funcionario-qt",
+  "version": "1.0.0",
+  "description": "Cadastro de functionarios da Quicktech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusNO/cadastro-funcionario-QT.git"
+  },
+  "author": "Alekinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateusNO/cadastro-funcionario-QT/issues"
+  },
+  "homepage": "https://github.com/mateusNO/cadastro-funcionario-QT#readme"
+}
