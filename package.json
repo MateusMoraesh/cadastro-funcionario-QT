@@ -10,10 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/mateusNO/cadastro-funcionario-QT.git"
   },
-  "author": "Alekinho",
+  "author": "Mateus",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mateusNO/cadastro-funcionario-QT/issues"
   },
-  "homepage": "https://github.com/mateusNO/cadastro-funcionario-QT#readme"
+  "homepage": "https://github.com/mateusNO/cadastro-funcionario-QT#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  }
 }
